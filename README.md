@@ -15,7 +15,7 @@
 | **Written On** | June 24, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/verlorene-seelen/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Get a Licensing Quote for Verlorene Seelen](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/verlorene-seelen/) |
+| **Get License** | [Official Music Licensing for Verlorene Seelen](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/verlorene-seelen/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Rote Lichter auf dem Asphalt, dein Blick ist magnetisch
+> Verlorene Seelen in der City, der Vibe ist so episch
+> Du und ich auf der Jagd, Baby, strictly no Limits
+> Lass uns fahren durch die Nacht, ich zähl' nicht die Minutes
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
