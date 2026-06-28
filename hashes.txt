@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Verlorene Seelen
+
+This log tracks the cryptographic history and versioning for the song **Verlorene Seelen** (verlorene-seelen).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-06-28T12:32:00.938434 | `v1` | `f5811855cc4e1663b475784b0d3c63cb6a323f8a903f9337b8429f9eb335eb0c` | `af930b898275ff7c75af673bf67cf8d3e9a5bc9a1b17e0ac4902dfb6a0cbd474` | `2026-06-28_verlorene-seelen-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*

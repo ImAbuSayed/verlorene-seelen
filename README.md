@@ -15,7 +15,7 @@
 | **Written On** | June 24, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/verlorene-seelen/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Official Music Licensing for Verlorene Seelen](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/verlorene-seelen/) |
+| **Get License** | [Commercial Licensing for Verlorene Seelen](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/verlorene-seelen/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `f5811855cc4e1663b475784b0d3c63cb6a323f8a903f9337b8429f9eb335eb0c` |
 | **Timestamp** | June 28, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.
